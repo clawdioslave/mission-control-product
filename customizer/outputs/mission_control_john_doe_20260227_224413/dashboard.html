@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Test Business — Mission Control</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <div class="container">
+        <header>
+            <h1>🚀 Test Business</h1>
+            <p class="tagline">Welcome back, John Doe</p>
+            <p class="date" id="current-date"></p>
+        </header>
+        
+        <main class="dashboard">
+            
+            <section class="module daily-focus">
+                <h2>🎯 Today's Focus</h2>
+                <div class="focus-area">
+                    <div class="priority" id="priority-1"></div>
+                    <div class="priority" id="priority-2"></div>
+                    <div class="priority" id="priority-3"></div>
+                </div>
+            </section>
+        
+
+            <section class="module client-projects">
+                <h2>👥 Active Projects</h2>
+                <div id="projects-list"></div>
+            </section>
+            
+
+            <section class="module finances">
+                <h2>💰 This Month</h2>
+                <div class="metrics">
+                    <div class="metric">
+                        <span class="label">Revenue</span>
+                        <span class="value" id="revenue">$0</span>
+                    </div>
+                    <div class="metric">
+                        <span class="label">Goal</span>
+                        <span class="value" id="revenue-goal">$0</span>
+                    </div>
+                </div>
+            </section>
+            
+
+            <section class="module goals">
+                <h2>🎯 90-Day Goals</h2>
+                <div id="goals-list"></div>
+            </section>
+            
+        </main>
+        
+        <footer>
+            <p>Mission Control for Freelancers</p>
+        </footer>
+    </div>
+    
+    <script src="config.js"></script>
+    <script src="app.js"></script>
+</body>
+</html>
