@@ -1,0 +1,189 @@
+# Beta Tester Onboarding Checklist
+## For: [Beta Tester Name]
+## Business: [Their Business Name]
+## Date: [Date]
+
+---
+
+## 📧 STEP 1: Send Recruitment Email
+**Status:** ☐ Sent ☐ They replied YES
+
+**Customizations made:**
+- [ ] Added their name
+- [ ] Mentioned their specific role/business type
+- [ ] Adjusted tone for relationship (friend/professional)
+
+---
+
+## 🛠️ STEP 2: Generate Their Custom Dashboard
+
+**Run customizer with their info:**
+```bash
+cd ~/.openclaw/workspaceollama/projects/MISSION-CONTROL-PRODUCT/customizer
+python3 customize.py
+```
+
+**Their selections:**
+- User type: [freelancer/agency/startup/creator/consultant]
+- Tier: FREE (but give them Pro features as bonus)
+- Modules: [list their selected modules]
+- Business name: [Their business name]
+- User name: [Their name]
+- Theme: [dark/light]
+- Accent color: [blue/purple/green/orange/pink]
+
+**Generate output:**
+- [ ] Run customizer
+- [ ] Verify dashboard.html loads correctly
+- [ ] Check all selected modules appear
+- [ ] Note output folder location
+
+---
+
+## 📦 STEP 3: Package for Delivery
+
+**Create delivery folder:**
+```
+mission-control-[their-name]/
+├── README.md
+├── SETUP.md
+├── dashboard.html
+├── config.js
+├── styles.css
+├── app.js
+└── BETA-README.txt (special instructions)
+```
+
+**Create BETA-README.txt:**
+```
+🚀 WELCOME TO THE BETA, [NAME]!
+
+THANK YOU for being an early tester. Your feedback will shape this product.
+
+WHAT YOU GOT:
+✓ Custom Mission Control dashboard
+✓ ALL Pro features (normally $29)
+✓ Lifetime free updates
+
+QUICK START (5 minutes):
+1. Open dashboard.html in your browser
+2. Edit config.js with your real data
+3. Refresh and see your info appear
+
+YOUR FEEDBACK MISSION:
+📋 Day 2: Quick survey (link below)
+📋 Day 5: Final survey (link below)
+🎥 Optional: 2-min video testimonial
+
+FEEDBACK SURVEYS:
+• Day 2 Survey: [GOOGLE_FORM_LINK]
+• Day 5 Survey: [GOOGLE_FORM_LINK]
+
+SUPPORT:
+Reply to this email or DM me anytime.
+
+— Chris
+P.S. Founding members get their name on the website! 🎉
+```
+
+**Delivery options:**
+- [ ] Zip file via email
+- [ ] GitHub repo (invite as collaborator)
+- [ ] Dropbox/Google Drive link
+- [ ] Host on your server
+
+---
+
+## 🎥 STEP 4: Optional Personal Touch
+
+**Record 5-min Loom video:**
+- [ ] Walk through their specific dashboard
+- [ ] Show how to customize config.js
+- [ ] Explain their selected modules
+- [ ] Share tips for their business type
+- [ ] Thank them personally
+
+**Send with:**
+- [ ] Dashboard files
+- [ ] BETA-README.txt
+- [ ] Loom video link (if recorded)
+- [ ] Calendar link for check-in call (optional)
+
+---
+
+## 📊 STEP 5: Track Their Progress
+
+**Create tracking entry:**
+```json
+{
+  "name": "[Their Name]",
+  "email": "[their@email.com]",
+  "business_type": "[type]",
+  "date_sent": "[date]",
+  "modules_selected": ["module1", "module2"],
+  "day2_survey": false,
+  "day5_survey": false,
+  "testimonial": false,
+  "feedback_notes": ""
+}
+```
+
+**Follow-up schedule:**
+- [ ] Day 1: Send welcome + dashboard
+- [ ] Day 2: Send Day 2 survey reminder
+- [ ] Day 3: Check-in ("How's it going?")
+- [ ] Day 5: Send Day 5 survey
+- [ ] Day 7: Thank you + testimonial request
+
+---
+
+## ✅ STEP 6: Collect & Act on Feedback
+
+**When survey comes in:**
+- [ ] Read responses immediately
+- [ ] Note bugs/issues
+- [ ] Identify feature requests
+- [ ] Update tracking sheet
+- [ ] Reply with thanks + any clarifying questions
+
+**Common issues to fix:**
+- [ ] Setup taking too long → Simplify guide
+- [ ] Module not working → Debug + fix
+- [ ] Missing feature → Add to roadmap
+- [ ] Confusing UI → Clarify design
+
+---
+
+## 🎯 SUCCESS CRITERIA FOR BETA TESTER
+
+**Minimum viable feedback:**
+- ☐ Used dashboard at least 3 days
+- ☐ Completed Day 2 survey
+- ☐ Completed Day 5 survey
+- ☐ Provided 1+ feature request or bug report
+
+**Gold standard:**
+- ☐ Used daily for 5+ days
+- ☐ Both surveys completed with detail
+- ☐ Recorded video testimonial
+- ☐ Referred 1+ friend
+
+---
+
+## 📋 QUICK REFERENCE: Beta Tester Tracker
+
+| Name | Biz Type | Date Sent | Day2 Survey | Day5 Survey | Testimonial | Notes |
+|------|----------|-----------|-------------|-------------|-------------|-------|
+| [Tester 1] | Freelancer | [Date] | ☐ | ☐ | ☐ | |
+| [Tester 2] | Agency | [Date] | ☐ | ☐ | ☐ | |
+
+---
+
+**Ready to onboard your beta testers!**
+
+Next steps:
+1. Copy recruitment message
+2. Customize for each person
+3. Send and wait for YES
+4. Run customizer for each
+5. Send dashboard + surveys

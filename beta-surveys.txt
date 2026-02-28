@@ -1,0 +1,255 @@
+# Beta Tester Feedback Surveys
+## Google Forms Templates
+
+---
+
+## 📋 DAY 2 SURVEY (Quick Check)
+
+**Form Title:** Mission Control — Day 2 Check-In
+**Description:** Quick 2-minute survey to see how your first day went
+
+### Questions:
+
+**Q1: Setup Experience**
+- Question: Did setup take less than 10 minutes?
+- Type: Multiple choice
+- Options:
+  - ✅ Yes, super easy!
+  - ⚠️ Took 10-15 minutes
+  - ❌ Took longer than 15 minutes
+  - 😕 Haven't set it up yet
+
+**Q2: First Impressions**
+- Question: What's your first impression?
+- Type: Multiple choice
+- Options:
+  - 🤩 Love it! Already using daily
+  - 👍 Good, see potential
+  - 😐 It's okay
+  - 😕 Not what I expected
+  - 😞 Confusing/frustrating
+
+**Q3: Most Useful Feature**
+- Question: Which module are you using most?
+- Type: Multiple choice
+- Options: [List their selected modules + "Haven't explored yet"]
+
+**Q4: Confusing Parts**
+- Question: What's confusing or unclear?
+- Type: Paragraph text
+- Placeholder: "Be honest — what's not working or confusing?"
+- Required: No
+
+**Q5: Missing Features**
+- Question: What's missing that you need?
+- Type: Paragraph text
+- Placeholder: "What would make this 10x more useful?"
+- Required: No
+
+**Q6: Bugs/Issues**
+- Question: Any bugs or technical issues?
+- Type: Paragraph text
+- Placeholder: "Describe what happened..."
+- Required: No
+
+**Thank You Message:**
+"Thanks! Keep using it for 3 more days, then check your email for the Day 5 survey. Your feedback is shaping the product! 🚀"
+
+---
+
+## 📋 DAY 5 SURVEY (In-Depth)
+
+**Form Title:** Mission Control — Final Beta Feedback
+**Description:** Help us improve with your detailed feedback (5 minutes)
+
+### Questions:
+
+**Q1: Usage Frequency**
+- Question: How many days did you use Mission Control?
+- Type: Multiple choice
+- Options:
+  - Every day (5+ days)
+  - 3-4 days
+  - 1-2 days
+  - Opened it but didn't really use
+  - Haven't used it yet
+
+**Q2: Daily Workflow Integration**
+- Question: How does it fit into your daily workflow?
+- Type: Paragraph text
+- Placeholder: "Walk me through your morning/evening routine with Mission Control..."
+- Required: No
+
+**Q3: Most Valuable Module**
+- Question: Which module provides the most value?
+- Type: Multiple choice
+- Options: [List their selected modules + "None really"]
+
+**Q4: Least Useful**
+- Question: Which module are you NOT using?
+- Type: Multiple choice  
+- Options: [List their selected modules + "Using them all"]
+
+**Q5: Time Saved**
+- Question: Is Mission Control saving you time?
+- Type: Multiple choice
+- Options:
+  - Yes, 30+ minutes per day
+  - Yes, 10-30 minutes per day
+  - Yes, a few minutes here and there
+  - Not yet, but I see potential
+  - No, not really
+
+**Q6: Stress/Clarity Impact**
+- Question: Do you feel more organized/clarity?
+- Type: Linear scale (1-5)
+- Labels: 1 = No change, 5 = Dramatically more organized
+
+**Q7: Would You Pay?**
+- Question: Would you pay $29 for the Pro version?
+- Type: Multiple choice
+- Options:
+  - 💯 Absolutely, already want to upgrade
+  - 🤔 Probably, if [tell us what would convince you]
+  - 💭 Maybe, not sure yet
+  - ❌ No, not valuable enough for me
+  - 🆓 Free version is enough
+
+**Q8: What Would Make You Upgrade?**
+- Question: What feature would make you upgrade to Pro?
+- Type: Paragraph text
+- Placeholder: "Be specific — what automation or feature would be a no-brainer?"
+- Required: No
+
+**Q9: Feature Requests**
+- Question: What features are missing?
+- Type: Paragraph text
+- Placeholder: "Dream big — what would make this perfect for you?"
+- Required: No
+
+**Q10: Compare to Current Tools**
+- Question: What tools does Mission Control replace or complement?
+- Type: Checkbox
+- Options:
+  - Notion
+  - Trello/Asana
+  - Spreadsheets
+  - Pen & paper
+  - Other app: [text field]
+  - Nothing — this is my first system
+
+**Q11: Biggest Frustration**
+- Question: What's the #1 thing we should fix?
+- Type: Paragraph text
+- Placeholder: "Don't hold back — what's most frustrating?"
+- Required: No
+
+**Q12: NPS Score**
+- Question: How likely are you to recommend Mission Control?
+- Type: Linear scale (0-10)
+- Labels: 0 = Not at all, 10 = Extremely likely
+
+**Q13: Testimonial Permission**
+- Question: Can we feature your feedback?
+- Type: Multiple choice
+- Options:
+  - ✅ Yes, use my name and feedback
+  - ✅ Yes, but anonymous only
+  - 🎥 Yes, and I'll record a video testimonial
+  - ❌ No, keep my feedback private
+
+**Q14: Referral**
+- Question: Know anyone else who'd benefit?
+- Type: Paragraph text
+- Placeholder: "Email addresses (optional)"
+- Required: No
+
+**Q15: Final Thoughts**
+- Question: Anything else we should know?
+- Type: Paragraph text
+- Placeholder: "Open mic — whatever's on your mind..."
+- Required: No
+
+**Thank You Message:**
+"🎉 THANK YOU! Your feedback is invaluable. As promised, you now have Mission Control Pro FREE for life ($99 value). You'll receive lifetime updates and early access to new features. Expect your 'Founding Member' badge soon!"
+
+---
+
+## 🎥 VIDEO TESTIMONIAL REQUEST (Optional)
+
+**Email Template:**
+
+Subject: 🎥 Quick favor? 2-min video testimonial
+
+Hey [Name],
+
+Your feedback has been AMAZING! 🙏
+
+Quick favor: Would you record a 2-minute video testimonial?
+
+**Just answer:**
+1. What was your biggest challenge before Mission Control?
+2. How has it helped?
+3. Would you recommend it?
+
+**Use your phone, casual is perfect!**
+
+**What's in it for you:**
+- ✅ Featured on our landing page
+- ✅ LinkedIn shoutout from me
+- ✅ 1-year Team tier credit ($948 value)
+
+No pressure at all — totally optional!
+
+Record here: [Loom link] or just reply with video attached.
+
+Thanks!
+— Chris
+
+---
+
+## 📊 SURVEY SETUP INSTRUCTIONS
+
+### Google Forms Setup:
+
+1. Go to forms.google.com
+2. Click "+ Blank" to create new form
+3. Copy questions from above
+4. Settings:
+   - Collect email addresses: ON
+   - Limit to 1 response: OFF (they need to take it twice)
+   - Show progress bar: ON
+5. Theme:
+   - Header color: Match your brand (blue/purple)
+   - Background: Light
+6. Share:
+   - Get link (short URL)
+   - Set to "Anyone with link can respond"
+
+### Survey Links to Save:
+- Day 2 Survey: [YOUR_LINK]
+- Day 5 Survey: [YOUR_LINK]
+
+### Response Tracking:
+- Set up Google Sheets auto-sync
+- Check responses daily
+- Reply to each person within 24 hours
+
+---
+
+## ✅ SURVEY SUCCESS METRICS
+
+**Day 2 Survey:**
+- Target: 80% response rate
+- Success: >70% say setup was easy
+- Red flag: >30% say something is confusing
+
+**Day 5 Survey:**
+- Target: 70% response rate
+- Success: NPS score 50+
+- Success: >50% say they'd pay $29
+- Red flag: <40% used it 3+ days
+
+---
+
+Ready to create your surveys and start collecting feedback!
