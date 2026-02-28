@@ -1,0 +1,101 @@
+/* Mission Control Styles */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+    background: #0a0a0f;
+    color: #e0e0e0;
+    line-height: 1.6;
+}
+
+.container {
+    max-width: 1400px;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+header {
+    background: linear-gradient(135deg, #1a1a2e 0%, #16213e 100%);
+    padding: 30px;
+    border-radius: 12px;
+    margin-bottom: 30px;
+    border: 1px solid #2a2a4a;
+}
+
+header h1 {
+    font-size: 2em;
+    background: linear-gradient(135deg, #00d4ff, #7b2cbf);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+
+.tagline {
+    color: #888;
+    margin-top: 5px;
+}
+
+.date {
+    color: #666;
+    font-size: 0.9em;
+    margin-top: 10px;
+}
+
+.dashboard {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(350px, 1fr));
+    gap: 20px;
+}
+
+.module {
+    background: #151520;
+    padding: 25px;
+    border-radius: 12px;
+    border: 1px solid #2a2a4a;
+}
+
+.module h2 {
+    color: #fff;
+    margin-bottom: 15px;
+    font-size: 1.2em;
+}
+
+.priority {
+    background: #1a1a2e;
+    padding: 15px;
+    border-radius: 8px;
+    margin-bottom: 10px;
+    border-left: 3px solid #00d4ff;
+}
+
+.metrics {
+    display: flex;
+    gap: 20px;
+}
+
+.metric {
+    text-align: center;
+}
+
+.metric .label {
+    display: block;
+    color: #888;
+    font-size: 0.85em;
+}
+
+.metric .value {
+    display: block;
+    font-size: 1.5em;
+    font-weight: bold;
+    color: #00d4ff;
+}
+
+footer {
+    text-align: center;
+    padding: 30px;
+    color: #666;
+    margin-top: 30px;
+}
